@@ -12,3 +12,6 @@ The folder contains the following spreadsheets:
 * [Throughput - Simple Project Forecasting](https://drive.google.com/open?id=13NdAyShAsAuKZZFITg2w3dznQN6wTHIyW7vkhmtmdPQ) Use your throughput to make simple predictions and answer questions like _"When will this project/functionality be done?"_ and _"Which stories can we complete in the next iteration?"_
 
 _(note: the examples are a read-only version. In order to use them use the menu "File/Make a copy" to copy them)_
+
+## Example Trello board
+* [Example Trello Board](https://trello.com/b/fq07LbFO/bizmetrics-book-example-board) We have created an example Trello board that demonstrates how you can track information for your stories, including the sprint when they were completed to easily calculate your Throughput.
