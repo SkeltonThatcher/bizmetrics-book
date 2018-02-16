@@ -14,6 +14,7 @@ The folder contains the following spreadsheets:
 
 ### Forecasting
 * [Probabilistic Forecasting](https://docs.google.com/spreadsheets/d/1L-BHVNIAFprYT0auzoBxvR3wI9JQS8wxVHG9XrDR1uQ) Use your past throughput to forecast the future. Answer questions like _"How long is it going to take to complete these N stories?"_ _"What can I get in the next X sprints?"_ _"Is this feature going to be ready by sprint X?"_ _"Which feature should we work on next?"_
+* [Forecasting number of stories](https://drive.google.com/open?id=1Q0mqSoGlaVbFPeVxrydMJsc9NX2RajbkJQP1k3nwmgQ) Sometimes it's not feasible to break down all the requirements upfront to find the total number of stories to complete, especially for big projects. Just break down a few epics (5-7 is good enough to get started) and then use this spreadsheet to forecast how many stories you are going to have in total.
 
 _(note: the examples are a read-only version. In order to use them use the menu "File/Make a copy" to copy them)_
 
