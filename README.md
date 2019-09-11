@@ -1,5 +1,9 @@
 # bizmetrics-book
-Public resources for the book **"Team Guide to Metrics for Business Decisions"** (https://skeltonthatcher.com/publications/team-guide-metrics-business-decisions)
+Public resources for the book **Team Guide to Metrics for Business Decisions** by Mattia Battiston and Chris Young (http://bizmetricsbook.com/)
+
+<a href="http://bizmetricsbook.com/">
+	<img src="cover-image-bizmetrics.png" alt="Cover image - Team Guide to Metrics for Business Decisions" width="200px"/>
+</a>
 
 ## Example Spreadsheets
 We have created some example spreadsheets to demonstrate what we are talking about in the book. Feel free to use them, copy them, edit them as you like - they should help you get started with metrics for your business decisions!
